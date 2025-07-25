@@ -50,3 +50,4 @@
 - Email: zikrihaq@gmail.com
 - Website: [https://IKYOne.github.io](https://IKYOne.github.io)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/6285218367661)
+- 📞 Hubungi saya via [WhatsApp](https://wa.me/6285218367661)
