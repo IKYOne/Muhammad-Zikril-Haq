@@ -51,3 +51,41 @@
 - Website: [https://IKYOne.github.io](https://IKYOne.github.io)
 - 📞 Hubungi saya via [WhatsApp](https://wa.me/6285218367661)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/6285218367661)
+
+### 🚀 Tentang Saya
+Saya sedang fokus belajar **Frontend Development** dan **Jaringan Mikrotik**. Saya suka membuat website statis dan dinamis, serta mengeksplorasi teknologi blockchain dan Web3.
+
+---
+
+### 📫 Hubungi Saya
+
+<p align="center">
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://img.shields.io/badge/Chat WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+### 📂 Beberapa Proyek Saya
+- 🔗 [Portofolio Web](https://ikyone.github.io/Muhammad-Zikril-Haq.github.io/web/portofolio.html)
+- 🛠️ [Topologi Jaringan Sekolah (Cisco Packet Tracer)](link-jaringan)
+- 📘 [Soal-soal Sinonim, Antonim & Logika (PDF)](link-soal)
+
+---
+
+### ⚙️ Tools & Teknologi
+<p align="left">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-0056A1?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">Terima kasih sudah berkunjung! 🚀</p>
+
