@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IKYOne&label=Profile%20views&color=0e75b6&style=flat" alt="IKYOne" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
